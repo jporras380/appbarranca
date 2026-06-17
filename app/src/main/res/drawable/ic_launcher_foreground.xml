@@ -1,0 +1,51 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Warm Sun behind the scene -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,18 A24,24 0,1,0 78,42 A24,24 0,0,0 54,18 Z" />
+
+    <!-- Stylized Waves at the bottom -->
+    <path
+        android:fillColor="#0C6B70"
+        android:pathData="M18,72 Q36,65 54,72 Q72,79 90,72 L90,90 L18,90 Z" />
+    <path
+        android:fillColor="#072B31"
+        android:pathData="M18,78 Q36,71 54,78 Q72,85 90,78 L90,90 L18,90 Z" />
+
+    <!-- Stylized Palm Tree stem and leaves -->
+    <!-- Palm Trunk -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M50,75 L52,45 C52,43 53,42 54,42 C55,42 56,43 56,45 L58,75 Z" />
+
+    <!-- Palm Leaves -->
+    <!-- Left top leaf -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M54,42 Q40,38 35,46 Q45,46 54,42 Z" />
+    <!-- Right top leaf -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M54,42 Q68,38 73,46 Q63,46 54,42 Z" />
+    <!-- Left middle leaf -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,42 Q36,46 32,56 Q42,52 54,42 Z" />
+    <!-- Right middle leaf -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,42 Q72,46 76,56 Q66,52 54,42 Z" />
+    <!-- Center top leaf -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,42 Q54,18 48,22 Q52,32 54,42 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,42 Q54,18 60,22 Q56,32 54,42 Z" />
+
+</vector>

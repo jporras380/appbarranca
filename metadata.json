@@ -1,0 +1,6 @@
+{
+  "name": "Paraíso Inventario",
+  "description": "Control de inventario e insumos para el Hotel Apart El Paraíso de Barranca, con registro de consumos, alertas de stock bajo y exportación de reportes PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
